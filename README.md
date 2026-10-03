@@ -1,26 +1,32 @@
 <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hey%2C+I'm+NKDev" alt="Typing SVG" /></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=NKDev&fontSize=70&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Web%20Scraping%20%7C%20Browser%20Automation&descAlignY=58&descSize=16" width="100%" />
+<div align="center">
+    <a href="https://discord.com/users/1529965591430037640"><img src="https://img.shields.io/badge/-Discord-f5e0dc?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+</div>
+
+## A little about me
 
 I'm 13 and I write Python. Backend is my main focus, but I also spend a lot of time on web scraping and browser automation.
 
 The scraping side is mostly about getting data out of sites that don't want to give it up — TLS fingerprints, HTTP/2 clients, proxies, and different request libraries until something gets through.
 
-</div>
-
----
-
-## Tools I use
-
-Python is my main language, with some JavaScript and Bash when needed.
-
-For browser automation I use DrissionPage, TrueDriver, and Nodriver. For scraping I use BeautifulSoup or Scrapy depending on the job.
-
-For requests, it depends on the target. requests works for simple stuff. When a site fights back I use curl_cffi, tls_client, primp, aiohttp, or httpx.
-
-For backend I use Flask.
-
----
+```javascript
+const NKDev = {
+    languages: {
+        main: ["Python"],
+        baseLevel: ["JavaScript", "Bash"]
+    },
+    programming: {
+        backend: ["Flask"],
+        databases: ["PostgreSQL", "MySQL", "Supabase", "MongoDB"],
+        webScraping: ["BeautifulSoup", "Scrapy"],
+        browserAutomation: ["Selenium", "Playwright", "DrissionPage", "TrueDriver", "Nodriver", "Zendriver"],
+        httpClients: ["requests", "aiohttp", "httpx", "curl_cffi", "tls_client", "primp"]
+    }
+};
+```
 
 ## What I'm working on
 
@@ -41,27 +47,17 @@ For backend I use Flask.
 </tr>
 </table>
 
----
+<details open>
+<summary><h3>Statistics</h3></summary>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevpy&layout=compact&theme=transparent"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nkdevpy&show_icons=true&theme=transparent"/>
+    </div>
+    <div align="center">
+        <img alt="NKDev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nkdevpy&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
+    </div>
+</details>
 
 <div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nkdevpy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkdevpy&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevpy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="150" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contact
-
-[![Discord](https://img.shields.io/badge/Discord-NKDev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1529965591430037640)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=120&section=footer" width="100%" />
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=120&section=footer" width="100%" />
 </div>
