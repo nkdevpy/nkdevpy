@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey, I'm NKDev
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=NKDev&fontSize=70&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Web%20Scraping%20%7C%20Browser%20Automation&descAlignY=58&descSize=16" width="100%" />
 
 I'm 13 and I write Python. Backend is my main focus, but I also spend a lot of time on web scraping and browser automation.
 
-</div>
+The scraping side is mostly about getting data out of sites that don't want to give it up — TLS fingerprints, HTTP/2 clients, proxies, and different request libraries until something gets through.
 
-The scraping side is mostly about getting data out of sites that don't want to give it up. That means working with TLS fingerprints, HTTP/2 clients, proxies, and different request libraries until something gets through.
+</div>
 
 ---
 
@@ -24,22 +24,35 @@ For backend I use Flask.
 
 ## What I'm working on
 
-**VenumZMail** — done. Release pending.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Solver** — still in development.
+### VenumZMail
+**Status:** Done — release pending.
+
+</td>
+<td width="50%" valign="top">
+
+### VenumZSolver
+**Status:** In development.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkdevpy&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkdevpy&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevpy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nkdevpy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkdevpy&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevpy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="150" />
+
+</div>
 
 ---
 
@@ -47,6 +60,8 @@ For backend I use Flask.
 
 ## Contact
 
-Discord: [NKDev](https://discord.com/users/1529965591430037640)
+[![Discord](https://img.shields.io/badge/Discord-NKDev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1529965591430037640)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=120&section=footer" width="100%" />
 
 </div>
